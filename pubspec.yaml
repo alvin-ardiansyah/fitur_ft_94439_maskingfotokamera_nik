@@ -1,0 +1,24 @@
+name: fitur_ft_94439_maskingfotokamera_nik
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_inappwebview: ^5.7.2+3
+  flutter_webrtc: ^0.9.39
+  http: ^1.1.0
+  permission_handler: ^10.4.3
+  webview_flutter: ^4.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
